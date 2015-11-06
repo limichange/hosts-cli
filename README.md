@@ -10,3 +10,7 @@ Command-Line Tool to Switch Hosts
     hosts
 
 Then edit your hosts. 
+
+### License
+
+MIT
