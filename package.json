@@ -1,0 +1,29 @@
+{
+  "name": "hosts-cli",
+  "version": "0.1.0",
+  "description": "Command-Line Tool to Switch Hosts",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/livoras/hosts-cli.git"
+  },
+  "keywords": [
+    "hosts",
+    "command-line"
+  ],
+  "author": "Livoras",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/livoras/hosts-cli/issues"
+  },
+  "bin": {
+    "hosts": "bin/hosts"
+  },
+  "homepage": "https://github.com/livoras/hosts-cli",
+  "dependencies": {
+    "inquirer": "^0.11.0"
+  }
+}
